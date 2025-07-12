@@ -1,1 +1,1 @@
-# IngredientChecker
+# Ingredient Checker
