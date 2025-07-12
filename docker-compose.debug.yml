@@ -1,0 +1,6 @@
+services:
+  ingredientchecker:
+    image: ingredientchecker
+    build:
+      context: .
+      dockerfile: ./Dockerfile
